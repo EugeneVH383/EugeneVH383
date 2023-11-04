@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EugeneVH383
+- 👋 Hi, I’m @EugeneVianHwang
 - 👀 I’m interested in Process Engineer
 - 🌱 I’m currently learning Chemical Engineering
 - 💞️ I’m looking to collaborate on development of Renewable Energy
